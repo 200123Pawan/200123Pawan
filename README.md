@@ -33,7 +33,7 @@
   <img scr="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img scr="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img scr="https://github.com/devicons/devicon/blob/master/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>
+  <img scr="https://<i class="fa-brands fa-php"></i>" title="Php" alt="Php" width="40" height="40"/>
   
  
 </div>
