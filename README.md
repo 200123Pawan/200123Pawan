@@ -6,7 +6,7 @@
 
 
 
-# Hey there :wave:, I'm Raman, it's a pleasure to meet you!
+# Hey there :wave:, I'm Pawan Gupta, it's a pleasure to meet you!
 
 ### A few things about me
 - I am Fullstack web developer doing all things creative to make the web a more unique and awesome place.
