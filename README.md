@@ -1,10 +1,10 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAsh9311&psig=AOvVaw39iaT9x_m-rptPHdq2GHdb&ust=1705854153675000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCnm5-w7IMDFQAAAAAdAAAAABAZ
+<img align="right" alt="coding" width="1200" src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966">
+
+---
+<br>
 <h1 align="center">Hi 👋, I'm Pawan Gupta</h1>
-<h3 align="center">I am Fullstack web developer doing all things creative to make the web a more unique and awesome place. - Wandring New place, photography, music,watch movie and art are my happy places - I enjoy bringing a static design or idea to life and learning new technologies. - Skilled in creating responsive designs, UI Design, HTML Emails and Frontend. - To be Graduated in 2025 with a B.E in Computer Science and Engineering from Chandigarh University. - Currently working on a web application, software development for international travel.</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=200123pawan&label=Profile%20views&color=0e75b6&style=flat" alt="200123pawan" /> </p>
-
+<h3 align="center">I am Fullstack web developer....</h3>
+<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <a href="https://twitter.com/twitter.com/pawangupta37380" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/pawangupta37380?logo=twitter&style=for-the-badge" alt="twitter.com/pawangupta37380" /></a> </p>
 
 - 🌱 I’m currently learning **javascript and Power-BI**
